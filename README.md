@@ -12,7 +12,7 @@ A hand-picked list of practical Agent Skills and skill collections for Claude Co
 
 ## Selection Criteria
 
-Projects included here should be useful, installable, maintained, and relevant to real agent workflows. Preference goes to skills that improve coding agents in practical areas like planning, implementation, verification, security, research, marketing, platform grounding, and long-running task execution.
+Projects included here should be useful, installable, maintained, and relevant to real agent workflows. Preference goes to skills that improve coding agents in practical areas like planning, implementation, verification, security, research, product management, marketing, platform grounding, and long-running task execution.
 
 ## Standards
 
@@ -39,6 +39,10 @@ Projects included here should be useful, installable, maintained, and relevant t
 ## Frontend & Design
 
 - [Taste Skill](https://github.com/Leonxlnx/taste-skill) - Anti-slop frontend and design skills for AI agents, covering landing pages, redesigns, image-to-code workflows, brand kits, and visual direction.
+
+## Product Management
+
+- [PM Skills](https://github.com/phuryn/pm-skills) - Product management skill marketplace for AI agents, covering discovery, product strategy, PRDs, prioritization, market research, analytics, go-to-market, growth, and AI shipping workflows.
 
 ## Marketing & Growth
 
