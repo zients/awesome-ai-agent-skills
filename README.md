@@ -7,6 +7,10 @@ A curated list of useful skills for AI agents and coding agents.
 - [Agent Skills](https://github.com/agentskills/agentskills) - Specification and documentation for portable Agent Skills.
 - [Anthropic Skills](https://github.com/anthropics/skills) - Reference repository for Anthropic's Agent Skills implementation.
 
+## Development Workflow
+
+- [Superpowers](https://github.com/obra/superpowers) - Agentic software development methodology with skills for brainstorming, planning, TDD, debugging, code review, verification, and subagent-driven development.
+
 ## Engineering
 
 - [Agent Skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
