@@ -23,6 +23,7 @@ Projects included here should be useful, installable, maintained, and relevant t
 
 - [Superpowers](https://github.com/obra/superpowers) - Agentic software development methodology with skills for brainstorming, planning, TDD, debugging, code review, verification, and subagent-driven development.
 - [planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for long-running agentic tasks across Claude Code, Codex, Hermes, and other SKILL.md-compatible agents.
+- [Karpathy-Inspired Claude Code Guidelines](https://github.com/multica-ai/andrej-karpathy-skills) - Lightweight coding-agent guidelines for clearer assumptions, simpler code, surgical changes, and goal-driven execution.
 - [Matt Pocock Skills](https://github.com/mattpocock/skills) - Practical Claude skills for real-world engineering workflows.
 - [Waza](https://github.com/tw93/Waza) - Engineering habits packaged as skills that AI agents can run.
 - [three-man-team](https://github.com/russelleNVy/three-man-team) - Structured Architect, Builder, and Reviewer workflow for AI-assisted development.
