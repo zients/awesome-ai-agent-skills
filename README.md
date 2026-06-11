@@ -1,6 +1,6 @@
 # Awesome AI Agent Skills
 
-A hand-picked list of practical Agent Skills for Claude Code, Codex, Gemini CLI, OpenClaw, Hermes, and other AI coding agents.
+A hand-picked list of practical Agent Skills and skill collections for Claude Code, Codex, Gemini CLI, OpenClaw, Hermes, and other SKILL.md-compatible AI coding agents. Compatibility varies by project.
 
 ## Featured Picks
 
