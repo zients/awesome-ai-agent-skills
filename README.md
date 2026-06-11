@@ -1,6 +1,18 @@
 # Awesome AI Agent Skills
 
-A curated list of useful skills for AI agents and coding agents.
+A hand-picked list of practical Agent Skills for Claude Code, Codex, Gemini CLI, OpenClaw, Hermes, and other AI coding agents.
+
+## Featured Picks
+
+- [Superpowers](https://github.com/obra/superpowers) - A complete software development methodology for coding agents, covering brainstorming, planning, TDD, debugging, review, and verification.
+- [planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for long-running agentic tasks across Claude Code, Codex, Hermes, and other SKILL.md-compatible agents.
+- [Agent Skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
+- [last30days](https://github.com/mvanhorn/last30days-skill) - Research recent discussion, sentiment, and trends across social, developer, and web sources.
+- [Trail of Bits Skills](https://github.com/trailofbits/skills) - Security research, vulnerability detection, and audit workflow skills for Claude Code and Codex.
+
+## Selection Criteria
+
+Projects included here should be useful, installable, maintained, and relevant to real agent workflows. Preference goes to skills that improve coding agents in practical areas like planning, implementation, verification, security, research, platform grounding, and long-running task execution.
 
 ## Standards
 
