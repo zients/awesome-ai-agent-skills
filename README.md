@@ -15,11 +15,13 @@ A curated list of useful skills for AI agents and coding agents.
 - [Waza](https://github.com/tw93/Waza) - Engineering habits packaged as skills that AI agents can run.
 - [three-man-team](https://github.com/russelleNVy/three-man-team) - Structured Architect, Builder, and Reviewer workflow for AI-assisted development.
 
-## Engineering
+## Platform & Frameworks
 
 - [Agent Skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [Microsoft Skills](https://github.com/microsoft/skills) - Skills, MCP servers, custom agents, and `AGENTS.md` resources for grounding coding agents.
 - [.NET Agent Skills](https://github.com/dotnet/skills) - Curated .NET and C# skills for AI coding agents.
+- [Google Skills](https://github.com/google/skills) - Agent Skills for Google products and technologies, including Google Cloud, Firebase, BigQuery, Cloud Run, and GKE.
+- [Gemini API Skills](https://github.com/google-gemini/gemini-skills) - Skills for building Gemini API, SDK, Live API, and model interaction workflows.
 
 ## Research
 
