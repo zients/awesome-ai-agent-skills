@@ -52,6 +52,7 @@ Projects included here should be useful, installable, maintained, and relevant t
 
 - [last30days](https://github.com/mvanhorn/last30days-skill) - Research recent discussion, sentiment, and trends across Reddit, X, YouTube, TikTok, Hacker News, GitHub, Polymarket, and the web.
 - [Academic Research Skills](https://github.com/Imbad0202/academic-research-skills) - Claude Code academic research pipeline for literature review, paper writing, peer review, revision, citation integrity checks, and publication workflows, with a [Codex-native adapter](https://github.com/Imbad0202/academic-research-skills-codex).
+- [Xquik X Data Skill](https://github.com/Xquik-dev/x-twitter-scraper) - Agent skill for X research workflows, covering search, extraction, account timelines, monitors, and webhook delivery through the Xquik API.
 
 ## Security
 
