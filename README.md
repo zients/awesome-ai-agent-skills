@@ -28,6 +28,10 @@ Projects included here should be useful, installable, maintained, and relevant t
 - [Waza](https://github.com/tw93/Waza) - Engineering habits packaged as skills that AI agents can run.
 - [three-man-team](https://github.com/russelleNVy/three-man-team) - Structured Architect, Builder, and Reviewer workflow for AI-assisted development.
 
+## Codebase Understanding
+
+- [Graphify](https://github.com/safishamsi/graphify) - CLI-backed Agent Skill that turns codebases, docs, schemas, papers, images, and videos into a queryable knowledge graph for Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Hermes, and more.
+
 ## Platform & Frameworks
 
 - [Agent Skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
