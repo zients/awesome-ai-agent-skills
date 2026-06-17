@@ -31,10 +31,12 @@ Projects included here should be useful, installable, maintained, and relevant t
 - [.NET Agent Skills](https://github.com/dotnet/skills) - Curated .NET and C# skills for AI coding agents.
 - [Google Skills](https://github.com/google/skills) - Agent Skills for Google products and technologies, including Google Cloud, Firebase, BigQuery, Cloud Run, and GKE.
 - [Gemini API Skills](https://github.com/google-gemini/gemini-skills) - Skills for building Gemini API, SDK, Live API, and model interaction workflows.
+- [Supabase Agent Skills](https://github.com/supabase/agent-skills) - Official Postgres best practices and Supabase platform skills for accurate database and backend code.
 
 ## Frontend & Design
 
 - [Taste Skill](https://github.com/Leonxlnx/taste-skill) - Anti-slop frontend and design skills for AI agents, covering landing pages, redesigns, image-to-code workflows, brand kits, and visual direction.
+- [Vercel Agent Skills](https://github.com/vercel-labs/agent-skills) - Official React, Next.js best practices, web design guidelines, composition patterns, and performance optimization skills.
 
 ## Product Management
 
@@ -56,5 +58,6 @@ Projects included here should be useful, installable, maintained, and relevant t
 
 ## Collections
 
+- [Antigravity Awesome Skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable library of 1,500+ agentic skills with specialized plugins, bundles, workflows, and npx installer for Claude Code, Cursor, Gemini CLI, and more.
 - [Claude Code Skills & Plugins](https://github.com/alirezarezvani/claude-skills) - Large cross-agent library of skills, agents, personas, and commands for Claude Code, Codex, Gemini CLI, OpenClaw, Hermes, and more.
 - [Awesome Agent Skills](https://github.com/VoltAgent/awesome-agent-skills) - Large curated collection of Agent Skills compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
