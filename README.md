@@ -16,7 +16,7 @@ If an official skill is primarily about using a specific platform service, cloud
 - [Agent Skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for long-running agentic tasks across Claude Code, Codex, Hermes, and other SKILL.md-compatible agents.
 - [Karpathy-Inspired Claude Code Guidelines](https://github.com/multica-ai/andrej-karpathy-skills) - Lightweight coding-agent guidelines for clearer assumptions, simpler code, surgical changes, and goal-driven execution.
-- [Matt Pocock Skills](https://github.com/mattpocock/skills) - Practical engineering workflow skills for coding agents, covering TDD, diagnosis, PRDs, issue breakdown, architecture review, and handoffs.
+- [Matt Pocock Skills](https://github.com/mattpocock/skills) - Practical engineering workflow skills for coding agents. Standout skills include **grill-me** / **grill-with-docs** (relentless one-question-at-a-time interviewing to sharpen plans, clarify requirements, extract domain language, and eliminate ambiguity before implementation; widely praised on X as a "secret sauce" that dramatically improves results for both coding and real-world tasks) plus TDD, debugging, PRDs, architecture reviews, and handoffs. Actively maintained with npx installer.
 - [Waza](https://github.com/tw93/Waza) - Engineering habits packaged as skills that AI agents can run.
 - [three-man-team](https://github.com/russelleNVy/three-man-team) - Structured Architect, Builder, and Reviewer workflow for AI-assisted development.
 - [.NET Agent Skills](https://github.com/dotnet/skills) - Curated .NET and C# skills for AI coding agents.
@@ -67,6 +67,7 @@ If an official skill is primarily about using a specific platform service, cloud
 - [Gemini API Skills](https://github.com/google-gemini/gemini-skills) - Skills for building Gemini API, SDK, Live API, and model interaction workflows.
 - [Supabase Agent Skills](https://github.com/supabase/agent-skills) - Official Postgres best practices and Supabase platform skills for accurate database and backend code.
 - [Vercel Agent Skills](https://github.com/vercel-labs/agent-skills) - Official React, Next.js best practices, web design guidelines, composition patterns, and performance optimization skills.
+- [Cursor Team Skills](https://github.com/cursor/plugins) - Cursor team skills. Standout: **thermo-nuclear-code-quality-review** (extremely strict maintainability review focused on abstraction quality, ambitious "code judo" structural simplifications, removing complexity instead of relocating it, file size discipline, and blocking spaghetti growth). Widely regarded as one of the most powerful and heavily-used internal skills at Cursor.
 
 ## References
 
