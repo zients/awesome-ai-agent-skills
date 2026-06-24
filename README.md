@@ -48,6 +48,7 @@ If an official skill is primarily about using a specific platform service, cloud
 
 ## Security
 
+- [Anthropic Cybersecurity Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - Large community library of 800+ structured cybersecurity skills for AI agents. Covers 29 security domains (threat hunting, DFIR, malware analysis, cloud security, pentesting, SOC operations, etc.) with detailed workflows mapped to MITRE ATT&CK, NIST CSF 2.0, D3FEND, ATLAS, AI RMF, and F3. Install via `npx skills add mukul975/Anthropic-Cybersecurity-Skills` or git clone. Works with Claude Code and other SKILL.md-compatible agents. (Community project, not affiliated with Anthropic.)
 - [Trail of Bits Skills](https://github.com/trailofbits/skills) - Security research, vulnerability detection, and audit workflow skills for Claude Code.
 - [SkillSpector](https://github.com/NVIDIA/SkillSpector) - NVIDIA's open-source security scanner for AI agent skills. Detects vulnerabilities, malicious patterns, and risks (including prompt injection, data exfiltration, MCP tool poisoning, and dangerous code) in SKILL.md-based skills before installation. Supports static analysis with optional LLM semantic analysis and SARIF reports.
 - [clawsec](https://github.com/prompt-security/clawsec) - Security skill suite for OpenClaw and Hermes with drift detection, audits, and skill integrity verification.
