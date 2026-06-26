@@ -20,6 +20,7 @@ If an official skill is primarily about using a specific platform service, cloud
 - [Waza](https://github.com/tw93/Waza) - Engineering habits packaged as skills that AI agents can run.
 - [three-man-team](https://github.com/russelleNVy/three-man-team) - Structured Architect, Builder, and Reviewer workflow for AI-assisted development.
 - [.NET Agent Skills](https://github.com/dotnet/skills) - Curated .NET and C# skills for AI coding agents.
+- [ponytail](https://github.com/DietrichGebert/ponytail) - Forces AI coding agents to think like the laziest (most efficient) senior dev: simplest working solution via YAGNI, reuse, stdlib and native features first (benchmarks show ~54% less code on average, up to 94%).
 
 ## Codebase Understanding
 
