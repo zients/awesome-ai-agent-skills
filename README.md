@@ -21,6 +21,7 @@ If an official skill is primarily about using a specific platform service, cloud
 - [three-man-team](https://github.com/russelleNVy/three-man-team) - Structured Architect, Builder, and Reviewer workflow for AI-assisted development.
 - [.NET Agent Skills](https://github.com/dotnet/skills) - Curated .NET and C# skills for AI coding agents.
 - [ponytail](https://github.com/DietrichGebert/ponytail) - Forces AI coding agents to think like the laziest (most efficient) senior dev: simplest working solution via YAGNI, reuse, stdlib and native features first (benchmarks show ~54% less code on average, up to 94%).
+- [caveman](https://github.com/JuliusBrussee/caveman) - Claude Code / Codex-compatible skill and plugin that compresses agent replies, commit messages, review comments, and memory files to reduce verbosity and token usage while preserving technical content.
 
 ## Codebase Understanding
 
