@@ -31,6 +31,7 @@ If an official skill is primarily about using a specific platform service, cloud
 
 - [Taste Skill](https://github.com/Leonxlnx/taste-skill) - Anti-slop frontend and design skills for AI agents, covering landing pages, redesigns, image-to-code workflows, brand kits, and visual direction.
 - [baoyu-design](https://github.com/JimLiu/baoyu-design) - Brings Claude's powerful design engine to local agents (Cursor, Claude Code, Codex, etc.). Generates polished UI mockups, interactive prototypes, wireframes, decks, design systems and more as self-contained HTML. Supports Figma import, design system binding, and visual iteration in preview. Best with Opus.
+- [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - High-star UI/UX design intelligence skill for AI agents building professional interfaces across multiple platforms.
 
 ## Presentations
 
